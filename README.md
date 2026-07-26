@@ -1,6 +1,6 @@
 # Владислав Тюрюмин
 
-## Data Analyst / Product Analyst Intern
+## Data Analyst / Product Analyst
 
 Студент МГТУ им. Н. Э. Баумана (ИУ9).
 
